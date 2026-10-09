@@ -71,6 +71,8 @@ Offline games inside the app: Shinobi Royale, Ridgeline Rally, a 15-game mini ar
 ## Install
 
 1. Download `Instant-Notes-v3.86.apk` from the Releases page. If a file ends in `.apk.txt`, rename it to `.apk`.
+
+> **Release versions:** the GitHub release tagged **v1.0** is the first public release, and it contains app version **v3.86** (the file above).
 2. Allow installs from your file manager or browser when Android asks.
 3. Open the file and tap Install.
 
